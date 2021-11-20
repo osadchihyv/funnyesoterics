@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FunnyEsoterics</string>
+    <string name="number">Возраст</string>
+    <string name="animal">Животное</string>
+    <string name="info">О приложении</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="random">Узнать</string>
+    <string name="send_to">Рассказать друзьям</string>
+    <string name="About">О приложении</string>
+    <string name="age">Какой возраст твоей души?</string>
+    <string name="past_life">Кем ты был в прошлой жизни?</string>
+</resources>
